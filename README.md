@@ -8,6 +8,6 @@ Below is a video of the vehicle moving in different terrains
 
 ![ezgif com-gif-maker-3](https://user-images.githubusercontent.com/121901181/210454664-28a9fe60-461f-4ff7-9a05-5895c280c865.gif)
 
-Below is a demontration of the vehicle's ability to recognize survivors.
+Below is a demontration of the vehicle's ability to recognize survivors using facial recognition
 
 ![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/121901181/210451646-cdf29886-0bae-4129-ab6e-1ff11e993032.gif)
